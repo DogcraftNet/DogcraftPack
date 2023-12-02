@@ -59,5 +59,6 @@
     ,{"predicate": {"custom_model_data": 51}, "model": "item/plushiezloyxp"}
     ,{"predicate": {"custom_model_data": 52}, "model": "item/plushielyarrah"}
     ,{"predicate": {"custom_model_data": 53}, "model": "item/plushiegriande"}
+    ,{"predicate": {"custom_model_data": 127}, "model": "item/rencoin"}
     ]
 }

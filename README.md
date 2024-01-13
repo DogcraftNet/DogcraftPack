@@ -74,3 +74,4 @@ Resource pack files for Dogcraft.net.
 | 51 | ZloyXP               |
 | 52 | Lyarrah              |
 | 53 | Ariana Griande       |
+| 54 | Straw hat            |

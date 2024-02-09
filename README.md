@@ -75,3 +75,4 @@ Resource pack files for Dogcraft.net.
 | 52 | Lyarrah              |
 | 53 | Ariana Griande       |
 | 54 | Straw hat            |
+| 55 | Ender Dragon         |

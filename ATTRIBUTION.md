@@ -60,3 +60,7 @@
 * Evil Xisuma (Evil)
 * Zedaph (Default)
 * ZloyXP (Default)
+
+## Dragon head
+* Model and textures are made by: Lev1ThePanda (Go to subscribe him)
+* Lev1ThePanda's plushies addon (for bedrock): https://www.planetminecraft.com/mod/levi-s-plushies/

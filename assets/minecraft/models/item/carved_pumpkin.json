@@ -61,5 +61,6 @@
     ,{"predicate": {"custom_model_data": 53}, "model": "item/plushiegriande"}
     ,{"predicate": {"custom_model_data": 54}, "model": "item/strawhat"}
     ,{"predicate": {"custom_model_data": 55}, "model": "item/plushiedragon"}
+	,{"predicate": {"custom_model_data": 56}, "model": "item/snowman2024"}
     ]
 }

@@ -76,3 +76,4 @@ Resource pack files for Dogcraft.net.
 | 53 | Ariana Griande       |
 | 54 | Straw hat            |
 | 55 | Ender Dragon         |
+| 56 | Snowman2024         |

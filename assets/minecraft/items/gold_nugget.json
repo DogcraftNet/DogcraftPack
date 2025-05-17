@@ -1,0 +1,19 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/rencoin"
+				},
+				"threshold": 1
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/gold_nugget"
+		},
+		"property": "minecraft:custom_model_data"
+	}
+}

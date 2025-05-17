@@ -1,0 +1,425 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"entries": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiebdubs"
+				},
+				"threshold": 1
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiebdubscreate"
+				},
+				"threshold": 2
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiebdubstwo"
+				},
+				"threshold": 3
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiecubfan"
+				},
+				"threshold": 4
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiedocm"
+				},
+				"threshold": 5
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushieetho"
+				},
+				"threshold": 6
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiefalse"
+				},
+				"threshold": 7
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegeminitay"
+				},
+				"threshold": 8
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegrian"
+				},
+				"threshold": 9
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegrumbot"
+				},
+				"threshold": 10
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegtwscar"
+				},
+				"threshold": 11
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegtwscarcreate"
+				},
+				"threshold": 12
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegtwscarelf"
+				},
+				"threshold": 13
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegtwscarhotguy"
+				},
+				"threshold": 14
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegtwscarland"
+				},
+				"threshold": 15
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiehypno"
+				},
+				"threshold": 16
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushieijevin"
+				},
+				"threshold": 17
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushieimpulse"
+				},
+				"threshold": 18
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushieimpulsedwarf"
+				},
+				"threshold": 19
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushieiskall"
+				},
+				"threshold": 20
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiejellie"
+				},
+				"threshold": 21
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiejoehills"
+				},
+				"threshold": 22
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiejoehillsjhost"
+				},
+				"threshold": 23
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiekeralis"
+				},
+				"threshold": 24
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiekeraliscreate"
+				},
+				"threshold": 25
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiemumbo"
+				},
+				"threshold": 26
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiepearl"
+				},
+				"threshold": 27
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiepearlcleaning"
+				},
+				"threshold": 28
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushierenthedog"
+				},
+				"threshold": 29
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushierentheking"
+				},
+				"threshold": 30
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiestress"
+				},
+				"threshold": 31
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiestressgg"
+				},
+				"threshold": 32
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushietango"
+				},
+				"threshold": 33
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushietangocreate"
+				},
+				"threshold": 34
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushietangodungeonmaster"
+				},
+				"threshold": 35
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushietfc"
+				},
+				"threshold": 36
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushievintagebeef"
+				},
+				"threshold": 37
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushievintagebeeftwo"
+				},
+				"threshold": 38
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiewelsknight"
+				},
+				"threshold": 39
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiewhelsknight"
+				},
+				"threshold": 40
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiexbcrafted"
+				},
+				"threshold": 41
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiexisuma"
+				},
+				"threshold": 42
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiexisumabone"
+				},
+				"threshold": 43
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiexisumaevil"
+				},
+				"threshold": 44
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezedaph"
+				},
+				"threshold": 45
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezedaphadvance"
+				},
+				"threshold": 46
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezedaphcreate"
+				},
+				"threshold": 47
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezombiecleo"
+				},
+				"threshold": 48
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezombiecleogorgon"
+				},
+				"threshold": 49
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiepixlriffs"
+				},
+				"threshold": 50
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiezloyxp"
+				},
+				"threshold": 51
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushielyarrah"
+				},
+				"threshold": 52
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiegriande"
+				},
+				"threshold": 53
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/strawhat"
+				},
+				"threshold": 54
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/plushiedragon"
+				},
+				"threshold": 55
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/snowman2024"
+				},
+				"threshold": 56
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/ironplushie"
+				},
+				"threshold": 57
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/renspaceexplorer"
+				},
+				"threshold": 58
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/mumbostash"
+				},
+				"threshold": 59
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/carved_pumpkin"
+		},
+		"property": "minecraft:custom_model_data"
+	}
+}

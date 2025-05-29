@@ -17,6 +17,10 @@ Resource pack files for Dogcraft.net.
 ```
 /give @s minecraft:gold_nugget{CustomModelData:1, display:{Name:'{"text":"Rencoin","color":"yellow","italic":"false"}'}} 1
 ```
+New 1.21.4 command:
+```
+/give @s minecraft:gold_nugget[minecraft:custom_model_data='{floats:[1.0]}',minecraft:custom_name='{"text":"Rencoin","color":"yellow","italic":"false"}'] 1
+```
 
 #### Carved Pumpkin
 | ID | Model name           |

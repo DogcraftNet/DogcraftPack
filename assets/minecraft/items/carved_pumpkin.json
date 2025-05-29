@@ -418,7 +418,7 @@
 		],
 		"fallback": {
 			"type": "minecraft:model",
-			"model": "minecraft:item/carved_pumpkin"
+			"model": "minecraft:block/carved_pumpkin"
 		},
 		"property": "minecraft:custom_model_data"
 	}

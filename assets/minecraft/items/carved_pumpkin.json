@@ -414,6 +414,13 @@
 					"model": "item/mumbostash"
 				},
 				"threshold": 59
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/dclogo"
+				},
+				"threshold": 60
 			}
 		],
 		"fallback": {

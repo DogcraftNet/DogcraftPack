@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/chocolateheart"
+	},
+	"display": {},
+	"groups": [
+		{
+			"name": "golden_apple",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}

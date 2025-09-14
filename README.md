@@ -84,3 +84,13 @@ New 1.21.4 command:
 | 57 | ironplushie          |
 | 58 | renspaceexplorer     |
 | 59 | mumbostash           |
+
+#### Golden Apple
+| ID | Model name           |
+|:--:|----------------------|
+| 1  | Box of chocolate     |
+
+#### Golden Nugget
+| ID | Model name           |
+|:--:|----------------------|
+| 1  | RenCoin              |

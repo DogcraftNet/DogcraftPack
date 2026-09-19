@@ -89,6 +89,11 @@ New 1.21.4 command:
 | 62 | Gravestone cross     |
 | 63 | Gravestone slab      |
 | 64 | Dogcraft logo badge  |
+| 65 | Raven                |
+| 66 | Skull and bones      |
+| 67 | Grave candle         |
+| 68 | Dead bush            |
+| 69 | Coffin               |
 
 The gravestones are built for **item frames laid flat on the ground** - they
 stand upright out of the frame at full size. Right-click the frame to turn the

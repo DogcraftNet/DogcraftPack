@@ -449,6 +449,41 @@
 					"model": "item/dclogobadge"
 				},
 				"threshold": 64
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/raven"
+				},
+				"threshold": 65
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/bonepile"
+				},
+				"threshold": 66
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/gravecandle"
+				},
+				"threshold": 67
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/deadbush"
+				},
+				"threshold": 68
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/coffin"
+				},
+				"threshold": 69
 			}
 		],
 		"fallback": {

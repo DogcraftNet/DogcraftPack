@@ -442,6 +442,13 @@
 					"model": "item/gravestoneslab"
 				},
 				"threshold": 63
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/dclogobadge"
+				},
+				"threshold": 64
 			}
 		],
 		"fallback": {

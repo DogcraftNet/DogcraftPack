@@ -88,6 +88,7 @@ New 1.21.4 command:
 | 61 | Gravestone rounded   |
 | 62 | Gravestone cross     |
 | 63 | Gravestone slab      |
+| 64 | Dogcraft logo badge  |
 
 The gravestones are built for **item frames laid flat on the ground** - they
 stand upright out of the frame at full size. Right-click the frame to turn the

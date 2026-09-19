@@ -84,6 +84,20 @@ New 1.21.4 command:
 | 57 | ironplushie          |
 | 58 | renspaceexplorer     |
 | 59 | mumbostash           |
+| 60 | dclogo               |
+| 61 | Gravestone rounded   |
+| 62 | Gravestone cross     |
+| 63 | Gravestone slab      |
+
+The gravestones are built for **item frames laid flat on the ground** - they
+stand upright out of the frame at full size. Right-click the frame to turn the
+stone to one of 8 facings, and use an invisible frame so only the stone shows:
+```
+/give @s minecraft:item_frame[minecraft:entity_data={id:"minecraft:item_frame",Invisible:1b}] 1
+```
+```
+/give @s minecraft:carved_pumpkin[minecraft:custom_model_data={floats:[61.0]},minecraft:custom_name='{"text":"Gravestone","color":"gray","italic":false}'] 1
+```
 
 #### Golden Apple
 | ID | Model name           |

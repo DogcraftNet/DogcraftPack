@@ -421,6 +421,27 @@
 					"model": "item/dclogo"
 				},
 				"threshold": 60
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/gravestonerounded"
+				},
+				"threshold": 61
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/gravestonecross"
+				},
+				"threshold": 62
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/gravestoneslab"
+				},
+				"threshold": 63
 			}
 		],
 		"fallback": {

@@ -8,6 +8,20 @@
 					"model": "item/chocolateheart"
 				},
 				"threshold": 1
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/candycane"
+				},
+				"threshold": 2
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/slushie"
+				},
+				"threshold": 3
 			}
 		],
 		"fallback": {

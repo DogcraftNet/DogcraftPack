@@ -484,6 +484,20 @@
 					"model": "item/coffin"
 				},
 				"threshold": 69
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/endtrophy"
+				},
+				"threshold": 70
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/jackolantern"
+				},
+				"threshold": 71
 			}
 		],
 		"fallback": {

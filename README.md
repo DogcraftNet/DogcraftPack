@@ -94,6 +94,8 @@ New 1.21.4 command:
 | 67 | Grave candle         |
 | 68 | Dead bush            |
 | 69 | Coffin               |
+| 70 | End trophy           |
+| 71 | Jack o lantern       |
 
 The gravestones are built for **item frames laid flat on the ground** - they
 stand upright out of the frame at full size. Right-click the frame to turn the
@@ -109,6 +111,8 @@ stone to one of 8 facings, and use an invisible frame so only the stone shows:
 | ID | Model name           |
 |:--:|----------------------|
 | 1  | Box of chocolate     |
+| 2  | Candy cane           |
+| 3  | Slushie              |
 
 #### Golden Nugget
 | ID | Model name           |

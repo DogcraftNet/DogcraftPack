@@ -2,7 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made By Artic_2446",
 	"textures": {
-		"1": "block/custom/candycane"
+		"1": "block/custom/candycane",
+		"particle": "block/custom/candycane"
 	},
 	"elements": [
 		{

@@ -3,7 +3,8 @@
 	"credit": "Made By Artic_2446",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/custom/slushie"
+		"2": "block/custom/slushie",
+		"particle": "block/custom/slushie"
 	},
 	"elements": [
 		{

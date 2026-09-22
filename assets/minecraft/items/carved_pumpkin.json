@@ -498,6 +498,27 @@
 					"model": "item/jackolantern"
 				},
 				"threshold": 71
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/goldentrophy1"
+				},
+				"threshold": 72
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/silvertrophy1"
+				},
+				"threshold": 73
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "item/bronzetrophy1"
+				},
+				"threshold": 74
 			}
 		],
 		"fallback": {

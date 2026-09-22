@@ -96,6 +96,9 @@ New 1.21.4 command:
 | 69 | Coffin               |
 | 70 | End trophy           |
 | 71 | Jack o lantern       |
+| 72 | Golden trophy        |
+| 73 | Silver trophy        |
+| 74 | Bronze trophy        |
 
 The gravestones are built for **item frames laid flat on the ground** - they
 stand upright out of the frame at full size. Right-click the frame to turn the
@@ -118,3 +121,38 @@ stone to one of 8 facings, and use an invisible frame so only the stone shows:
 | ID | Model name           |
 |:--:|----------------------|
 | 1  | RenCoin              |
+
+#### Baseball caps
+
+These use the item-model route rather than Custom Model Data. Setting
+`equippable` with **no `asset_id`** makes Minecraft fall back to the item's
+own 3D model on the head, so the whole cap renders and the helmet keeps its
+armour, durability and enchantments.
+
+| Model name             | item_model id               |
+|------------------------|-----------------------------|
+| Dogcraft cap           | minecraft:dogcraftcap       |
+| Dogcraft cap backwards | minecraft:dogcraftcapback   |
+
+```
+/give @s minecraft:leather_helmet[minecraft:item_model="minecraft:dogcraftcap",minecraft:equippable={slot:"head",equip_sound:"item.armor.equip_leather"}] 1
+```
+
+#### Large logo display
+
+`minecraft:dclogobadgebig` is the 128x128 version of the logo, built at the
+largest size Minecraft allows in an item frame. Model elements are capped at
+-16..32 (3 blocks) and `display.scale` is capped at 4, and an item frame then
+halves it, so it renders **6 x 6 blocks**. Put it in a wall frame (use an
+invisible one) and it hangs upright, centred on the frame.
+
+```
+/give @s minecraft:paper[minecraft:item_model="minecraft:dclogobadgebig"] 1
+```
+
+To go past 6 blocks it has to be an item display entity rather than a frame,
+since those are not bound by the frame's halving - raise `scale` as needed:
+
+```
+/summon minecraft:item_display ~ ~1 ~ {item:{id:"minecraft:paper",count:1,components:{"minecraft:item_model":"minecraft:dclogobadgebig"}},transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[4f,4f,4f]},billboard:"fixed"}
+```
